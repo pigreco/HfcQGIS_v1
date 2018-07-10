@@ -1,4 +1,4 @@
-## Funzione `atan`
+# `atan`
 
 Restituisce l'arcotangente del valore in radianti.
 

@@ -1,4 +1,4 @@
-## Funzione `m`
+# `m`
 
 Restituisce il valore m di una geometria puntuale.
 

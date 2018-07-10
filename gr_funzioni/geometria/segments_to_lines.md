@@ -1,4 +1,4 @@
-## Funzione `segments_to_lines`
+# `segments_to_lines`
 
 Restituisce una geometria multi linea consistente in una linea per ogni segmento nella geometria in ingresso.
 

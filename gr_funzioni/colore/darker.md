@@ -1,4 +1,4 @@
-## Funzione `darker`
+# `darker`
 
 Restituisce una stringa di colore più scuro (o più chiaro)
 

@@ -1,4 +1,4 @@
-## Funzione `project_author`
+# `project_author`
 
 --
 

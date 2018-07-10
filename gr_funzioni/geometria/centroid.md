@@ -1,4 +1,4 @@
-## Funzione `centroid`
+# `centroid`
 
 Restituisce il centro geometrico di una geometria.
 

@@ -1,4 +1,4 @@
-## Funzione `map_extent_width`
+# `map_extent_width`
 
 --
 

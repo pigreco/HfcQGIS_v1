@@ -1,4 +1,4 @@
-## Funzione `num_points`
+# `num_points`
 
 Restituisce il numero di vertici in una geometria.
 

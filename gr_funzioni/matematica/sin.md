@@ -1,4 +1,4 @@
-## Funzione `sin`
+# `sin`
 
 Restituisce il seno di un angolo.
 

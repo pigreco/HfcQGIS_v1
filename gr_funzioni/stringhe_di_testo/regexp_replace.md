@@ -1,4 +1,4 @@
-## Funzione `regexp_replace`
+# `regexp_replace`
 
 Restituisce una stringa con la parte che soddisfa l'espressione regolare sostituita.
 

@@ -1,4 +1,4 @@
-## Funzione `reverse_string`
+# `reverse_string`
 
 Questa funzione ritorna il valore rovesciato di un testo
 

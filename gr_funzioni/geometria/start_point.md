@@ -1,4 +1,4 @@
-## Funzione `start_point`
+# `start_point`
 
 Restituisce il primo nodo di una geometria.
 

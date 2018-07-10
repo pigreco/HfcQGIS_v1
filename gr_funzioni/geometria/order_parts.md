@@ -1,4 +1,4 @@
-## Funzione `order_parts`
+# `order_parts`
 
 Ordina le parti di una MultiGeometria secondo un dato criterio
 

@@ -1,4 +1,4 @@
-## Funzione `map_extent_height`
+# `map_extent_height`
 
 --
 

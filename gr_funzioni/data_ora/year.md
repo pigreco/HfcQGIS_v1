@@ -1,4 +1,4 @@
-## funzione `year`
+# `year`
 
 Estrae la parte anno da una data, o il numero di anni da un intervallo.
 

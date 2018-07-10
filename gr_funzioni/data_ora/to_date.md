@@ -1,4 +1,4 @@
-## funzione `to_date`
+# `to_date`
 
 Converte una stringa in un oggetto data
 

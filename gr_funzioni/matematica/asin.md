@@ -1,4 +1,4 @@
-## Funzione `asin`
+# `asin`
 
 Restituisce l'arcoseno del valore in radianti.
 

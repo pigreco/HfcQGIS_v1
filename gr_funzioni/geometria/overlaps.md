@@ -1,4 +1,4 @@
-## Funzione `overlaps`
+# `overlaps`
 
 Controlla qualora una geometria si sovrapponga ad un'altra. Restituisce true (1) se le geometrie condividono aree, ma non sono completamente contenute una nell'altra.
 

@@ -1,4 +1,4 @@
-## Funzione `qgis_short_version`
+# `qgis_short_version`
 
 --
 

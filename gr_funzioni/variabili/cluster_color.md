@@ -1,4 +1,4 @@
-## Funzione `cluster_color`
+# `cluster_color`
 
 --
 

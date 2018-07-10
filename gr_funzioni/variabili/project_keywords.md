@@ -1,4 +1,4 @@
-## Funzione `project_keywords`
+# `project_keywords`
 
 --
 

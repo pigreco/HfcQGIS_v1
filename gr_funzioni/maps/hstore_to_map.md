@@ -1,4 +1,4 @@
-## Funzione `hstore_to_map`
+# `hstore_to_map`
 
 Coverte stringa json in map.
 

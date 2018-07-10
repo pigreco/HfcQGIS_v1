@@ -1,4 +1,4 @@
-## Funzione `reverse`
+# `reverse`
 
 Inverte la direzione di una linestring invertendo l'ordine dei sui vertici
 

@@ -1,4 +1,4 @@
-## Funzione `point_n`
+# `point_n`
 
 Restituisce un nodo specifico da una geometria.
 

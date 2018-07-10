@@ -1,4 +1,4 @@
-## Funzione `minimal_circle`
+# `minimal_circle`
 
 Restituisce la circonferenza circoscritta minima di una geometria. Rappresenta il cerchio minimo che circoscrive tutte le geometrie presenti in un dataset.
 

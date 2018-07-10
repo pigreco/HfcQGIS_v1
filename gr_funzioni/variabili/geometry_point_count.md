@@ -1,4 +1,4 @@
-## Funzione `geometry_point_count`
+# `geometry_point_count`
 
 --
 

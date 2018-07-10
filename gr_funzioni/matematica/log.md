@@ -1,4 +1,4 @@
-## Funzione `log`
+# `log`
 
 Restituisce il valore del logaritmo della base e valore passati.
 

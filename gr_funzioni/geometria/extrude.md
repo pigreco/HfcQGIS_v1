@@ -1,4 +1,4 @@
-## Funzione `extrude`
+# `extrude`
 
 Restituisce una versione estrusa della geometria (Multi-)Curve o (Multi-)Linestring in ingresso, con un'estensione specificata da x e y.
 

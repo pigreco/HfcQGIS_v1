@@ -1,4 +1,4 @@
-## Funzione `$x`
+# `$x`
 
 Restituisce la coordinata x della geometria corrente.
 

@@ -1,4 +1,4 @@
-## Funzione `lower`
+# `lower`
 
 Converte una stringa in lettere minuscole.
 

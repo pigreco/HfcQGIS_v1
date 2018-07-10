@@ -1,4 +1,4 @@
-## Funzione `degrees`
+# `degrees`
 
 Converte da radianti a gradi decimali.
 

@@ -1,4 +1,4 @@
-## Funzione `array_avg`
+# `array_avg`
 
 Calcola il valore medio di un array.
 

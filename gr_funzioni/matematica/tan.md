@@ -1,4 +1,4 @@
-## Funzione `tan`
+# `tan`
 
 Restituisce la tangente di un angolo.
 

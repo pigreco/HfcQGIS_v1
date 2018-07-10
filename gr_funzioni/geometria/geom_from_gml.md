@@ -1,4 +1,4 @@
-## Funzione `geom_from_gml`
+# `geom_from_gml`
 
 Restituisce una geometria da una rappresentazione GML di una geometria.
 

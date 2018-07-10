@@ -1,4 +1,4 @@
-## Funzione `array_first`
+# `array_first`
 
 Restituisce il primo valore di un array.
 

@@ -1,4 +1,4 @@
-## Funzione `cluster_size`
+# `cluster_size`
 
 --
 

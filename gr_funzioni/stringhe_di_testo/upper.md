@@ -1,4 +1,4 @@
-## Funzione `upper`
+# `upper`
 
 Converte una stringa in lettere maiuscole.
 

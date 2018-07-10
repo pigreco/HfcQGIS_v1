@@ -1,4 +1,4 @@
-## Funzione `set_color_part`
+# `set_color_part`
 
 Imposta uno specifico componente colore per una stringa colore, es. la componente rosso o alpha.
 

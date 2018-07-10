@@ -1,4 +1,4 @@
-## Funzione `layout_numpages`
+# `layout_numpages`
 
 --
 

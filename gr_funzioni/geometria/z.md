@@ -1,4 +1,4 @@
-## Funzione `z`
+# `z`
 
 Restituisce la coordinata z di una geometria puntuale.
 

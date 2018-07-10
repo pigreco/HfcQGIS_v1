@@ -1,4 +1,4 @@
-## Funzione `array_slice`
+# `array_slice`
 
 Restituisce una porzione dell'array. Il taglio è definito dagli argomenti _start_pos_ e _end_pos_.
 

@@ -1,4 +1,4 @@
-## Funzione `symbol_color`
+# `symbol_color`
 
 --
 

@@ -1,4 +1,4 @@
-## Funzione `closest_point`
+# `closest_point`
 
 Restituisce il punto sulla geometria 1 che è più vicino alla geometria 2.
 

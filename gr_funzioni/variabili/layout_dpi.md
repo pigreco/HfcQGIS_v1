@@ -1,4 +1,4 @@
-## Funzione `layout_dpi`
+# `layout_dpi`
 
 --
 

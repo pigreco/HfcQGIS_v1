@@ -1,4 +1,4 @@
-## Funzione `end_point`
+# `end_point`
 
 Restituisce l'ultimo nodo di una geometria.
 

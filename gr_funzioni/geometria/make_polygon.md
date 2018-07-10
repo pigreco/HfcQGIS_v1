@@ -1,4 +1,4 @@
-## Funzione `make_polygon`
+# `make_polygon`
 
 Crea una geometria poligono da un'anello esterno e opzionalmente da geometrie ad anello interne.
 

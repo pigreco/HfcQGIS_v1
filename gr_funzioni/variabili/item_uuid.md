@@ -1,4 +1,4 @@
-## Funzione `item_uuid`
+# `item_uuid`
 
 --
 

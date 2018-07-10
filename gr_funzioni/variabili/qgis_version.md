@@ -1,4 +1,4 @@
-## Funzione `qgis_version`
+# `qgis_version`
 
 --
 

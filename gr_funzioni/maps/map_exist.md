@@ -1,4 +1,4 @@
-## Funzione `map_exist`
+# `map_exist`
 
 Restituisce vero se la chiave passata esiste in mappa.
 

@@ -1,4 +1,4 @@
-## Funzione `concat`
+# `concat`
 
 Concatena svariate stringhe in una sola. Valori NULL sono convertiti in stringhe vuote. Altri valori (come i numeri) sono convertiti in stringa.
 

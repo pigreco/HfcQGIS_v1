@@ -1,4 +1,4 @@
-## Funzione `array_append`
+# `array_append`
 
 Restituisce un array con il valore passato aggiunto alla fine.
 

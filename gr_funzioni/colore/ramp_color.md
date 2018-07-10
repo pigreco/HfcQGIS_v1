@@ -1,4 +1,4 @@
-## Funzione `ramp_color`
+# `ramp_color`
 
 Restituisce una stringa rappresentante un colore ottenuto da una scala colore.
 

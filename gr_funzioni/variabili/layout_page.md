@@ -1,4 +1,4 @@
-## Funzione `layout_page`
+# `layout_page`
 
 --
 

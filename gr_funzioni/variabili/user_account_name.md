@@ -1,4 +1,4 @@
-## Funzione `user_account_name`
+# `user_account_name`
 
 --
 

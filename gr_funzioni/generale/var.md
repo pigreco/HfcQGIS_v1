@@ -1,4 +1,4 @@
-## funzione `var`
+# `var`
 
 Restituisce il valore memorizzato in una variabile specificata.
 

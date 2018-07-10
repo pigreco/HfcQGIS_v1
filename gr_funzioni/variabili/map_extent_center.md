@@ -1,4 +1,4 @@
-## Funzione `map_extent_center`
+# `map_extent_center`
 
 --
 

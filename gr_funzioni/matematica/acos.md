@@ -1,4 +1,4 @@
-## Funzione `acos`
+# `acos`
 Restituisce l'arcocoseno del valore in radianti.
 
 ## Sintassi

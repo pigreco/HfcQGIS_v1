@@ -1,4 +1,4 @@
-## Funzione `atlas_geometry`
+# `atlas_geometry`
 
 --
 

@@ -1,4 +1,4 @@
-## Funzione `project_path`
+# `project_path`
 
 --
 

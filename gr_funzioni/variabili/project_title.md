@@ -1,4 +1,4 @@
-## Funzione `project_title`
+# `project_title`
 
 --
 

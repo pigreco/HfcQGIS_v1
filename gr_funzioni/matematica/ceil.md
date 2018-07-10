@@ -1,4 +1,4 @@
-## Funzione `ceil`
+# `ceil`
 
 Arrotonda un numero all'intero superiore.
 

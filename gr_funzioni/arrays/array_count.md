@@ -1,4 +1,4 @@
-## Funzione `array_count`
+# `array_count`
 
 Conta un dato valore in un array.
 

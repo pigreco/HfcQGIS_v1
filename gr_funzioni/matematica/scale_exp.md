@@ -1,4 +1,4 @@
-## Funzione `scale_exp`
+# `scale_exp`
 
 Trasforma un valore dato da un dominio in ingresso in un intervallo in uscita usando una curva esponenziale. Questa funzione può essere usata per agevolare gradualmente in entrata o in uscita i valori dell'intervallo in uscita specificato.
 

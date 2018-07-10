@@ -1,4 +1,4 @@
-## Funzione `layout_name`
+# `layout_name`
 
 --
 

@@ -1,4 +1,4 @@
-## Funzione `concatenate`
+# `concatenate`
 
 Restituisce tutte le stringhe aggregate tratte da un campo o da una espressione unite con un delimitatore.
 

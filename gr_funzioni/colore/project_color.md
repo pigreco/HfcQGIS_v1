@@ -1,4 +1,4 @@
-## Funzione `project_color`
+# `project_color`
 
 Restituisce un colore dallo schema colore del progetto.
 

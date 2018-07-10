@@ -1,4 +1,4 @@
-## Funzione `x_max`
+# `x_max`
 
 Restituisce la coordinata x massima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 

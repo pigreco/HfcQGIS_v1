@@ -1,4 +1,4 @@
-## Funzione `distance_to_vertex`
+# `distance_to_vertex`
 
 Restituisce la distanza lungo una geometria ad un vertice specificato.
 

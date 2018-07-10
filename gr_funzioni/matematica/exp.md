@@ -1,4 +1,4 @@
-## Funzione `exp`
+# `exp`
 
 Restituisce l'esponenziale di un valore.
 

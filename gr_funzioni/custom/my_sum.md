@@ -1,4 +1,4 @@
-## Funzione `my_sum`
+# `my_sum`
 
 Calcola la somma dei due parametri valore1 e valore2. 
 

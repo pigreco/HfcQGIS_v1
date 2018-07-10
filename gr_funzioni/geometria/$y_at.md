@@ -1,4 +1,4 @@
-## Funzione `$y_at`
+# `$y_at`
 
 Recupera una coordinata y per la geometria dell'elemento corrente.
 
